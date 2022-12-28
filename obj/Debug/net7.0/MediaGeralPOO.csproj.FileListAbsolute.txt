@@ -1,0 +1,15 @@
+/home/dikronos/Projetos/MediaGeralPOO/bin/Debug/net7.0/MediaGeralPOO
+/home/dikronos/Projetos/MediaGeralPOO/bin/Debug/net7.0/MediaGeralPOO.deps.json
+/home/dikronos/Projetos/MediaGeralPOO/bin/Debug/net7.0/MediaGeralPOO.runtimeconfig.json
+/home/dikronos/Projetos/MediaGeralPOO/bin/Debug/net7.0/MediaGeralPOO.dll
+/home/dikronos/Projetos/MediaGeralPOO/bin/Debug/net7.0/MediaGeralPOO.pdb
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.csproj.AssemblyReference.cache
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.AssemblyInfoInputs.cache
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.AssemblyInfo.cs
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.csproj.CoreCompileInputs.cache
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.dll
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/refint/MediaGeralPOO.dll
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.pdb
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/MediaGeralPOO.genruntimeconfig.cache
+/home/dikronos/Projetos/MediaGeralPOO/obj/Debug/net7.0/ref/MediaGeralPOO.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZ6xeSK5tjv34XnIMAiL7Cd28wxnkUElAYZMMUMfTRnKP7mPKzFNbzzKnJemgQIntjkHtnFnZgSy8Xt11akcuw==",
+  "success": true,
+  "projectFilePath": "/home/dikronos/Projetos/MediaGeralPOO/MediaGeralPOO.csproj",
+  "expectedPackageFiles": [
+    "/home/dikronos/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
